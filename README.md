@@ -110,6 +110,10 @@ Nanophotonics, 2017.
 *C Li, X Zhang, J Li, T Fang, X Dong.*<br>
 PhotoniX, 2021.
 
+**Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerator.**<br>
+*S Ning, H Zhu, C Feng, J Gu, Z Jiang, Z Ying, J Midkiff, S Jain, MH Hlaing, DZ Pan, RT Chen.*<br>
+arXiv:2403.14806, 2024.
+
 ## Analog Optical Computing (AOC)
 
 ### Traditional AOC
@@ -264,3 +268,11 @@ Optica, 2020.
 **Physics successfully implements Lagrange multiplier optimization.**<br>
 *SK Vadlamani, TP Xiao, et al.*<br>
 PNAS, 2020.
+
+### Communications
+
+**General-purpose programmable photonic processor for advanced radiofrequency applications.**<br>
+*D Pérez-López, A Gutierrez, D Sánchez, et al.*<br>
+Nature Communications, 2024.
+
+
