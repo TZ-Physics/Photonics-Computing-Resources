@@ -1,4 +1,4 @@
-# OptoElectronic-Computing-Survey
+# Photonics-Computing-Survey
 
 ## Journal
 
