@@ -239,12 +239,6 @@ Optics Communications, 2021.
 *Y Fu, X Hu, C Lu, S Yue, H Yang, Q Gong.*<br>
 Nano letters, 2012.
 
-### Communications & Network (CN)
-
-**Photonic Computing to Accelerate Data Processing in Wireless Communications.**<br>
-*M Salmani, A Eshaghi, E Luan, S Saha.*<br>
-Optics Express, 2021.
-
 ## Applications
 
 ### Slover
@@ -274,5 +268,9 @@ PNAS, 2020.
 **General-purpose programmable photonic processor for advanced radiofrequency applications.**<br>
 *D Pérez-López, A Gutierrez, D Sánchez, et al.*<br>
 Nature Communications, 2024.
+
+**Photonic Computing to Accelerate Data Processing in Wireless Communications.**<br>
+*M Salmani, A Eshaghi, E Luan, S Saha.*<br>
+Optics Express, 2021.
 
 
