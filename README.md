@@ -213,6 +213,14 @@ arXiv:2112.08703, 2021.
 *F Ashtiani, AJ Geers, F Aflatouni.*<br>
 Nature, 2022.
 
+**Large-scale photonic chiplet Taichi empowers 160-TOPS/W artificial general intelligence.**<br>
+*Z Xu, T Zhou, M Ma, CC Deng, Q Dai, L Fang.*<br>
+Science, 2024.
+
+**Fully forward mode training for optical neural networks.**<br>
+*Z Xue, T Zhou, Z Xu, S Yu, Q Dai, L Fang.*<br>
+Nature, 2024.
+
 #### Diffractive ONNs
 
 **All optical machine learning using diffractive deep neural networks.**<br>
